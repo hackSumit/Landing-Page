@@ -157,6 +157,10 @@ border-radius: 50%;
      {
          padding-top: 15rem;
      }
+     .caption
+     {
+         padding:6rem 0 0 0;
+     }
      .welcome_size
      {
          font-size: .7rem;
@@ -168,6 +172,10 @@ border-radius: 50%;
     .twocolumn_content
     {
         padding-top: 10rem;
+    }
+    .industries_content
+    {
+        margin-top: 2rem;
     }
 
 
