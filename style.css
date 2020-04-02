@@ -145,12 +145,21 @@ border-radius: 50%;
     .welcome img
     {
         background-size: cover;
-        transform: translateY(3.8rem);
-        max-width: 100%
+        transform: translateY(5.8rem);
+        max-width: 100%;
+        
+    }
+    .welcome-header
+    {
+        font-size: 2rem;
     }
      .twocolumn_content
      {
          padding-top: 15rem;
+     }
+     .welcome_size
+     {
+         font-size: .7rem;
      }
    
 }
